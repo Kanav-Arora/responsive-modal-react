@@ -1,0 +1,29 @@
+{
+    "name": "responsive-modal",
+    "version": "1.0.0",
+    "description": "This a react responsive modal which can be customised as required.",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc --project tsconfig.json",
+        "clean": "rm -rf dist"
+    },
+    "author": "Kanav Arora",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Kanav-Arora/responsive-modal.git"
+    },
+    "homepage": "https://github.com/Kanav-Arora/responsive-modal#readme",
+    "keywords": [
+        "react",
+        "typescript",
+        "javascript",
+        "modal",
+        "responsive"
+    ],
+    "devDependencies": {
+        "@types/react": "^18.2.52",
+        "@types/react-dom": "^18.2.18",
+        "typescript": "^5.3.3"
+    }
+}
