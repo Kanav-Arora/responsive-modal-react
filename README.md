@@ -7,14 +7,14 @@ A customizable and responsive modal component for React.
 Install the package using npm:
 
 ```bash
-npm install responsive-modal
+npm install responsive-modal-react
 ```
 
 ## Usage
 
 ```javascript
 import React, { useState } from 'react';
-import Modal from 'responsive-modal';
+import Modal from 'responsive-modal-react';
 
 const App = () => {
   const [modalState, setModalState] = useState(false);

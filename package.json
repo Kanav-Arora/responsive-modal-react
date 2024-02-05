@@ -1,5 +1,5 @@
 {
-    "name": "responsive-modal",
+    "name": "responsive-modal-react",
     "version": "1.0.0",
     "description": "This a react responsive modal which can be customised as required.",
     "main": "dist/index.js",
